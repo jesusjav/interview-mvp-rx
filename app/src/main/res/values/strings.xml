@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Interview Jesus </string>
+
+    <string name="actionbar_title_historic">Historic</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+    <string name="menu_lang">Languages</string>
+    <string name="menu_historic">Historic</string>
+    <string name="choose_target">Choose Target languages!</string>
+    <string name="error_data_fill">Fill me!</string>
+    <string name="error_no_target_language">Select target languages</string>
+    <string name="hint_translate">Translate</string>
+    <string name="button_translate_tittle">NOW!</string>
+
+</resources>
